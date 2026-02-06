@@ -1,0 +1,5 @@
+- [x] add small description to founder type
+- [x] Turn into dropdown
+- [x] Features section refinment
+- [x] Remove pricing
+- [ ] Create feedback form
