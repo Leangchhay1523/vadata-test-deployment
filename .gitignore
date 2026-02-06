@@ -31,3 +31,6 @@ instruction.md
 
 # sql
 **/*.sql
+
+# open-next
+.open-next
